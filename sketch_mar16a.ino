@@ -7,7 +7,7 @@ pinMode(6,OUTPUT);
 void loop() {
 
   
-  analogWrite(5,60);
+  analogWrite(5,);
   analogWrite(6,0);
   delay(3000);
 
